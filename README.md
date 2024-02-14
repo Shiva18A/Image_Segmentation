@@ -1,5 +1,6 @@
 # Image_Segmentation
 Performance of various image segmentation models.
+![image](https://github.com/Shiva18A/Image_Segmentation/blob/main/unet_results.jpg?raw=true "performance")
 
 UNet ASPP modified Architecture
 
