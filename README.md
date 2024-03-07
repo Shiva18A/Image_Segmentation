@@ -9,3 +9,6 @@ Modification done on UNet to get to UNet ASPP model uploaded above
 UNet ASPP results 
 
 ![image](https://github.com/Shiva18A/Image_Segmentation/blob/main/aspp_results.jpg?raw=true "results")
+
+
+![image](https://github.com/Shiva18A/Image_Segmentation/blob/main/segmentation_results.png?raw=true "results")
